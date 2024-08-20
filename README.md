@@ -4,7 +4,7 @@
 
 #### 1. 下载并安装
 
-1. **获取 EXE 文件**: 将提供dist目录下的 [ EXE 文件](https://github.com/Pitohuie/fuzzy_search/releases/tag/v0.1.0)
+1. **获取 EXE 文件**: 将提供dist目录下的 [ EXE 文件]([https://github.com/Pitohuie/fuzzy_search/releases/tag/v0.1.0](https://github.com/Pitohuie/fuzzy_search/releases/download/v0.1.0/SES.zip))
 
 下载到你的电脑。你可以将它放置在一个易于访问的文件夹中，如桌面或指定的项目目录中。
 
