@@ -4,7 +4,8 @@
 
 #### 1. 下载并安装
 
-1. **获取 EXE 文件**: 将提供dist目录下的 EXE 文件下载到你的电脑。你可以将它放置在一个易于访问的文件夹中，如桌面或指定的项目目录中。
+1. **获取 EXE 文件**: 将提供dist目录下的 [ EXE 文件]([https://github.com/yourusername/yourrepository/raw/main/dist/yourfile.exe](https://github.com/Pitohuie/fuzzy_search/tree/v0.1.0))
+下载到你的电脑。你可以将它放置在一个易于访问的文件夹中，如桌面或指定的项目目录中。
 
 2. **双击运行**: 双击 EXE 文件以启动应用程序。你会看到一个简洁的用户界面，提供文件选择、列名输入、关键词输入和结果显示区域。
 
